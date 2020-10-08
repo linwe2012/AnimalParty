@@ -7,10 +7,8 @@
 This is the final project for Game Design in ZJU.
 
 You need a pair of Joycons to play.
-
-
-
-
+ 
+[![https://j.gifs.com/mO35nr.gif](https://j.gifs.com/mO35nr.gif)](https://youtu.be/5kacuvv1os8)
 
 <img src="docs/img/最终设计文档/APPIcon.png" />
 
@@ -68,12 +66,6 @@ You need a pair of Joycons to play.
 The player is the manager of an animal farm. In this farm, the player can play with the little animals as much as possible. Of course, sometimes small animals also have various needs, so players need to find a suitable way to comfort the small animals and satisfy them.
 
 <div style="text-align:center;">
-    <img src="docs/img/最终设计文档/dog.png" alt="dog" style="zoom:10%;" />
-    <img src="docs/img/最终设计文档/048-elephant.png" alt="048-elephant" style="zoom:10%;" />
-    <img src="docs/img/最终设计文档/044-gorilla.png" alt="044-gorilla" style="zoom:10%;" />
-    <img src="docs/img/最终设计文档/077-fish-1.png" alt="077-fish-1" style="zoom:10%;" />
-    <img src="docs/img/最终设计文档/026-penguin.png" alt="026-penguin" style="zoom:10%;" />
-    <img src="docs/img/最终设计文档/jamaican-jerk-chicken.png" alt="jamaican-jerk-chicken" style="zoom:10%;" />
     <div style='margin-top:10px;color:rgba(9,9,40, 0.7); font-size: 0.8rem;'>
         We provide 6 levels, corresponding to raising or comforting five animals. The first level is the teaching level
     </div>
