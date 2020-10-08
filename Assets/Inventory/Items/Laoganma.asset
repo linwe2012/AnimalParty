@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 41314cfa1e7c249408d0cc935749df8a, type: 3}
+  m_Name: Laoganma
+  m_EditorClassIdentifier: 
+  itemName: "\u8001\u5E72\u5988"
+  canonicalName: laoganma
+  itemImage: {fileID: 21300000, guid: 6209f2311062cef49a692874bb49108c, type: 3}
+  itemheld: 95
+  ItemInfo: "\u8001\u5E72\u5988\u662F\u4E00\u6B3E\u8FA3\u9171, \u7ED9\u4F01\u9E45\u5582\u5047\u8FA3\u9171,
+    \u4F60\u80FD\u884C\u7684"
+  initialThing: {fileID: 576397614661024611, guid: 1936d1142cd741c4aaf50f771cf3a967,
+    type: 3}
+  isEmptyHand: 0
